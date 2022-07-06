@@ -1,11 +1,19 @@
-## AniBlog Front End
+## AniBlog Front End Testing Suite
 
-> Notice: This project is not maintained yet until the final release of Aniblog Backend. I created this repository to remind me of something need to be done only.
+> This repository is a test suite for AniBlog Back End.
 
-This is a front end for [AniBlog Backend](https://github.com/albetnov/aniblog-backend).
+Since making test about SPA Authentication in Laravel is kinda pain. So i decided to make a dummy front end for testing purpose only.
+
+![Preview](public/preview.png)
+
+## Installation
+
+Install using `pnpm install`.
 
 ## Serving Up
 
-> Make sure you run `npm install` first.
+Execute `npm install` and you're good to go.
 
-Run `npm start` and you're good to go.
+## Notice
+
+This test must run in same top level domain with the Backend.
